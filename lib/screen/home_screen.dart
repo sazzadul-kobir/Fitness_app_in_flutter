@@ -49,6 +49,7 @@ class _HomeState extends State<Home> {
 
           SizedBox(
             height: 40,
+
           ),
 
          Recommendation(diets: diets),
